@@ -1,5 +1,5 @@
 # Modelo-3D-Graphics
-Este proyecto implementa un renderizador 3D básico en Rust que permite visualizar y manipular un modelo 3D de una nave espacial. El programa utiliza técnicas de computación gráfica fundamentales como transformaciones geométricas, manejo de cámara y renderizado con iluminación básica.
+Este laboratorio implementa un renderizador 3D básico en Rust que permite visualizar y manipular un modelo 3D de una nave espacial. El programa utiliza técnicas de computación gráfica fundamentales como transformaciones geométricas, manejo de cámara y renderizado con iluminación básica.
 
 ## Descripción
 El proyecto implementa un pipeline gráfico simple que permite cargar y visualizar modelos 3D en formato .obj. Se creó específicamente para trabajar con un modelo de nave espacial diseñado en Blender, empleando herramientas básicas de modelado para mantener la simplicidad del objeto.
